@@ -47,5 +47,5 @@ The platform focuses on delivering a seamless shopping experience with responsiv
 The goal of this project is to build a real-world e-commerce platform that demonstrates online product selling, payment gateway integration, and user-friendly shopping experiences.
 
 
-![Screenshot 2026-03-15 at 14-43-48 Shop – Soft Water Washing Point.png]
+
 
